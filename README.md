@@ -12,6 +12,7 @@ To develop practical C++ skills by:
 * Building fluency for both academic courses and systems-level programming
 
 > This series is aligned with core CS topics like **Data Structures**, **Memory Management**, and **System Programming Fundamentals**.
+> It also supports coursework for **M028 – CSNC101: Networks and Communication** and **M029 – CP103: Data Structures and Algorithm**.
 
 ## Structure
 
