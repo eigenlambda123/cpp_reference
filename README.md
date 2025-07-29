@@ -1,4 +1,4 @@
-# C++ Learning Reference – Based on LearnCpp.com
+# C++ Learning Reference – Based on _LearnCpp.com_
 
 This repository contains personal notes, code examples, and hands-on mini-projects for learning modern **C++**, following the progression of topics from [LearnCpp.com](https://www.learncpp.com/).
 
