@@ -43,8 +43,6 @@ The project structure is based on **LearnCpp.com**, reorganized for hands-on cod
 | `13_enums_and_structs/`                  | `enum`, `enum class`, `struct`, aggregate initialization            |
 | `14_classes_intro/`                      | Basic class design, constructors, member functions                  |
 | `15_more_on_classes/`                    | `this` pointer, access specifiers, encapsulation                    |
-| `F_constexpr_functions/`                 | `constexpr`, compile-time evaluation                                |
-| `O_bit_manipulation/`                    | Bitwise operations, flags, bitmasks                                 |
 | `16_arrays_and_vectors/`                | Fixed-size arrays (`std::array`, C-style), dynamic arrays (`std::vector`) |
 | `17_iterators_and_algorithms/`          | Iterators, range-based loops, STL algorithms                              |
 | `18_dynamic_allocation/`                | Manual memory (`new`/`delete`), resource management                       |
@@ -57,6 +55,9 @@ The project structure is based on **LearnCpp.com**, reorganized for hands-on cod
 | `25_exceptions_and_error_handling/`     | Exception handling best practices, RAII                                   |
 | `26_input_output_streams/`              | File streams, string streams, formatted I/O                               |
 | `27_miscellaneous_topics/`              | Namespaces, `inline`, `constexpr` deep dive, `static`, RAII patterns      |
+| `F_constexpr_functions/`                 | `constexpr`, compile-time evaluation                                |
+| `O_bit_manipulation/`                    | Bitwise operations, flags, bitmasks                                 |
+
 
 ---
 
