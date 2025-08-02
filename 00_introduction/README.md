@@ -22,7 +22,7 @@ This chapter lays the groundwork for learning C++. It explains what programs are
   You'll need an IDE or text editor and a C++ compiler. Popular IDEs include Visual Studio, Code::Blocks, and CLion. You can also use command-line tools like `g++`.
 
 - **First Program**
-  Once your environment is ready, you can write a simple `main()` function, compile it, and run your first program.
+  Once the environment is ready, you can write a simple `main()` function, compile it, and run your first program.
 
 ---
 
