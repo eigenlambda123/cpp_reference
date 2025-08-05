@@ -105,7 +105,7 @@ int result = (5 + 3) * 2;
 
 ---
 
-### 1.11 Your First Program
+### 1.11 First Program
 
 ```cpp
 #include <iostream>
