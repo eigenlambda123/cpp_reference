@@ -19,17 +19,16 @@ This chapter lays the groundwork for learning C++. It explains what programs are
   - **Standard libraries** that provide common functions and tools
 
 - **Setting Up**
-  You'll need an IDE or text editor and a C++ compiler. Popular IDEs include Visual Studio, Code::Blocks, and CLion. You can also use command-line tools like `g++`.
+  We'll need an IDE or text editor and a C++ compiler. Popular IDEs include Visual Studio, Code::Blocks, and CLion. You can also use command-line tools like `g++`.
 
 - **First Program**
-  Once the environment is ready, you can write a simple `main()` function, compile it, and run your first program.
+  Once the environment is ready, we can write a simple `main()` function, compile it, and run theprogram.
 
 ---
 
 ### Summary
 
-By the end of this chapter, you should:
 - Understand the basic idea behind programs and programming languages
 - Know what C++ is and why it's used
-- Be familiar with the compilation process
+- Become familiar with the compilation process
 - Have a working development environment ready for writing C++ code
