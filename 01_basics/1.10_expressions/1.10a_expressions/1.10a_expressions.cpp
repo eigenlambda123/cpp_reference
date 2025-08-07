@@ -4,6 +4,7 @@
 int getFive() {
     return 5;  // function call expression returns an int
 }
+
 int main() {
     int x = 2 + 3;              // arithmetic expression (2 + 3)
     int y = x * 4;              // expression using variable and operator
