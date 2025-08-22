@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# Debug / build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
