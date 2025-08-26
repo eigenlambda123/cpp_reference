@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1756181855 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.11_header_files\2.11c_full_header_demo\headerdemo\src\print.cpp
+
+1756183047 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.11_header_files\2.11c_full_header_demo\headerdemo\src\add.cpp
+	"math/add.h"
+
+1756182036 c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.11_header_files\2.11c_full_header_demo\headerdemo\include\math\add.h
+
+1756183062 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.11_header_files\2.11c_full_header_demo\headerdemo\src\main.cpp
+	"math/add.h"
+	"math/multiply.h"
+	"util/print.h"
+
+1756182046 c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.11_header_files\2.11c_full_header_demo\headerdemo\include\math\multiply.h
+
+1756182058 c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.11_header_files\2.11c_full_header_demo\headerdemo\include\util\print.h
+	<string_view>
+
+1756183067 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.11_header_files\2.11c_full_header_demo\headerdemo\src\multiply.cpp
+	"math/multiply.h"
+
