@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1756347482 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.13_designing_my_first_program\simplecalculator\main.cpp
+	<iostream>
+	<string>
+	"util/get_user_input.h"
+	"util/calculate.h"
+
+1756344529 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.13_designing_my_first_program\simplecalculator\print.cpp
+
+1756347130 c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.13_designing_my_first_program\simplecalculator\util\get_user_input.h
+
+1756347235 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.13_designing_my_first_program\simplecalculator\get_user_input.cpp
+	<iostream>
+	<string>
+
+1756347452 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.13_designing_my_first_program\simplecalculator\calculate.cpp
+	<iostream>
+	<string>
+
+1756347567 c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.13_designing_my_first_program\simplecalculator\util\calculate.h
+	<string>
+
