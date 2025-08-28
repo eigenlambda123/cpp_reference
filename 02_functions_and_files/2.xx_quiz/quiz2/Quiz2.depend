@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1756349991 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.xx_quiz\quiz2\io.cpp
+	<iostream>
+
+1756350005 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.xx_quiz\quiz2\main.cpp
+	<iostream>
+

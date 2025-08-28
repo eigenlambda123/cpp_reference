@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1756350585 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.xx_quiz\quiz3\main.cpp
+	<iostream>
+	"util/io.h"
+
+1756350566 c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.xx_quiz\quiz3\util\io.h
+
+1756350597 source:c:\users\pc\desktop\cpp_reference\02_functions_and_files\2.xx_quiz\quiz3\io.cpp
+	<iostream>
+
