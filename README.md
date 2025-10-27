@@ -65,7 +65,6 @@ The project structure is based on **LearnCpp.com**, reorganized for hands-on cod
 
 * A `README.md` summarizing key concepts
 * `.cpp` files with examples or exercises
-* Inline commentary for deeper understanding and revision
 
 ---
 
