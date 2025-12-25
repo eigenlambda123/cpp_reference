@@ -16,8 +16,8 @@ To develop practical C++ skills by:
 > This series supports topics in **Data Structures**, **Memory Management**, and **System Programming Fundamentals**.
 > It also aligns with coursework for:
 >
-> * **M028 – CSNC101: Networks and Communication**
-> * **M029 – CP103: Data Structures and Algorithms**
+> * **CSNC101: Networks and Communication**
+> * **CP103: Data Structures and Algorithms**
 
 ---
 
